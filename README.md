@@ -1,2 +1,2 @@
 # EvaluationTool
-For EEH Chair EvaluationT
+For EEH Chair Evaluation
